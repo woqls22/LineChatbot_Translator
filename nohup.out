@@ -1,0 +1,1499 @@
+[HTTPS] Server is started on port 23023
+====================== 2020-05-29T03:19:23.610Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '8fc7907726b9484cb4df61cd93eb7917',
+       source: [Object],
+       timestamp: 1590722362890,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048703279125', text: '여' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'woman',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:19:26.538Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '51728f7b208a418ea52d8881e4935807',
+       source: [Object],
+       timestamp: 1590722365864,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048703517902', text: '야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Dude.',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:19:31.130Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '286623d0d0fb4867a9c11c8bd47a40fc',
+       source: [Object],
+       timestamp: 1590722370439,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048703900411', text: '반가워' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Nice to meet you.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:19:49.310Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '556bcba952e84725b5bc7bfe4c19ed31',
+       source: [Object],
+       timestamp: 1590722388617,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048705434019', text: '안녕' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Hi.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:20:08.232Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '89185cbe79f4415bb8f7f301d5e3dd35',
+       source: [Object],
+       timestamp: 1590722407564,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048707016104', text: '너 영어잘해?' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Are you good at English?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:20:47.884Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'd0399cd5777746329ff7ae9f9ef9208c',
+       source: [Object],
+       timestamp: 1590722447103,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048710329228', text: '남용이 피지 못온다며? ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'You said abuse won\'t work.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:20:52.160Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '2bf619888f6a4ee78b1ad5a996c30564',
+       source: [Object],
+       timestamp: 1590722451466,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048710699926', text: '아니 한국' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'No, Korea.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:20:59.601Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'dbf7aeadbe1444cab0b8765bb36d6d2e',
+       source: [Object],
+       timestamp: 1590722458944,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048711328700', text: '이걸 번역이라고 하는거야?' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Is this called translation?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:23:37.514Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'c385bcc3e0544c408d4feb9664e9a6ad',
+       source: [Object],
+       timestamp: 1590722616810,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048724626465', text: '걱정' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Worry',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:23:55.350Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '59fa31f88ff5483fb492a1c467a8e74f',
+       source: [Object],
+       timestamp: 1590722631456,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048725849991', text: '걱정마 잘해왔잖아' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Don\'t worry. You did a good job.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:24:13.363Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'e2c87654d6cd4dd5b0404117bab339a7',
+       source: [Object],
+       timestamp: 1590722652667,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048727638165', text: '뭐랄까 무기력해지는 느낌?' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'How can I say? Feeling lethargic?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:24:21.780Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '27c4bf1f6fc747bf808fe8d3c4493805',
+       source: [Object],
+       timestamp: 1590722661105,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048728349714', text: '무기력한' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'lethargic',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:24:28.730Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '4063baefbdb84685943115951feb1e4b',
+       source: [Object],
+       timestamp: 1590722668036,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048728924999', text: '무력감' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'a feeling of helplessness',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:24:40.996Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '29787cdee66a430b8b5a00542c1703e9',
+       source: [Object],
+       timestamp: 1590722680324,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048729955419', text: '세영아 사랑해' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Se-young, I love you.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:24:47.752Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '68e86193d7144cc399ea530462b97a4d',
+       source: [Object],
+       timestamp: 1590722686441,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048730474374', text: '번역기 만들어써' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'by making a translator',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:26:05.787Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '48b34d5fbf924f8da33dd99aa619bf31',
+       source: [Object],
+       timestamp: 1590722765086,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048737084740', text: '이 문장 번역해줘' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Translate this sentence for me.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:26:10.413Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '84fcb10fbfa5414cb1f95944f1e1b043',
+       source: [Object],
+       timestamp: 1590722769746,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048737475570', text: '고마워' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Thank you.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:26:24.673Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '8973dc56372b4bc2abbd403143c21b69',
+       source: [Object],
+       timestamp: 1590722782650,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048738552107', text: '나중에 찾아가도 될까요?' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Can I pick it up later?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:55:59.001Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '7bdfe5e91be94aad93fcb1aea4c66c26',
+       source: [Object],
+       timestamp: 1590724558065,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048889851035', text: 'ㅎㅇ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'ᄋᄋ',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:56:03.786Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '3fea4c567b9542eabd6134ade8a2378d',
+       source: [Object],
+       timestamp: 1590724563115,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048890285120', text: '야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Dude.',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:56:09.788Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'bff7a798e2d74a4897de2e3cbb0beb8f',
+       source: [Object],
+       timestamp: 1590724569115,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048890804959', text: '반가워' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Nice to meet you.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T03:56:14.108Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '21c2d1cc02664f80945452b21c4b0e54',
+       source: [Object],
+       timestamp: 1590724573440,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12048891174819', text: '너 사람이지' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'You\'re a human being.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T05:46:18.942Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'cfb71e98aaca4b54a0e2476711aadd4c',
+       source: [Object],
+       timestamp: 1590731177734,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049402464734', text: '안녕' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Hi.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T05:46:21.301Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'c198ce9befc4498bba7abb6174d076f2',
+       source: [Object],
+       timestamp: 1590731180609,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049402670982', text: '번역기야반가워' }
+====================== 2020-05-29T05:46:21.491Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '962162c7829f459f955e13904369b5bd',
+       source: [Object],
+       timestamp: 1590731181276,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049402724079', text: 'ㅋㅋㅋ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Nice to meet you, translator.',
+     engineType: 'N2MT',
+     pivot: null } }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'LOL',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+{}
+====================== 2020-05-29T06:08:08.708Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '4272204271fd4673b1a6cef510cbbb65',
+       source: [Object],
+       timestamp: 1590732488004,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049500833070', text: '배꼽' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'navel',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:08:26.369Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '7a722ad457184dd7a49530f56026c0d8',
+       source: [Object],
+       timestamp: 1590732505705,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049502198959', text: '보지' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'vulva',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:08:42.783Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '104ace54a0df4ae5bd22829dd1cd1274',
+       source: [Object],
+       timestamp: 1590732522087,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049503455385', text: '밸리버튼' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Valley Button',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:08:57.032Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '08aa8f440341439199aca1139165ecf8',
+       source: [Object],
+       timestamp: 1590732536365,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049504559284', text: '배꼽을 눌렀더니 애기가 나왔다' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'I pressed the belly button and the baby came out.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:24:02.853Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '21cd613632a748369466026f5e6e45c5',
+       source: [Object],
+       timestamp: 1590733441582,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049573197983', text: '날씨가 여름 같애' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'It\'s like summer.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:24:44.196Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '2aca83afb26646349980c7431f73de62',
+       source: [Object],
+       timestamp: 1590733483226,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049576357739', text: '여자들 옷차림이 얇아지거든' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: '\'Cause girls are getting thinner.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T06:46:33.340Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'bd5ce0e70a5a4fc7840c0ca76e0accba',
+       source: [Object],
+       timestamp: 1590734792404,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12049676184377', text: '공항이 봉쇄됐어' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'The airport\'s blocked.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:26.275Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '227e8e7b9a9e4be687e2c8235e2a1cb8',
+       source: [Object],
+       timestamp: 1590750505050,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050988752267', text: '썅년아' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Bitch!',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:30.492Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '7cae286417bc4c15b59695145b39180c',
+       source: [Object],
+       timestamp: 1590750509794,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050989164071', text: 'ㅎㅇ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'ᄋᄋ',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:34.284Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '0b686b6a285044488b3deae49bd827db',
+       source: [Object],
+       timestamp: 1590750513588,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050989501287', text: 'ㅋㅋㅋㅋ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'LOL',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:39.029Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'c16b5a4d141a499e9c1cf4fc114379d7',
+       source: [Object],
+       timestamp: 1590750518363,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050989906717', text: '너이름뭐야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'What\'s your name?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:44.909Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'f2d45b43f21040d5a44e9f1587bebec3',
+       source: [Object],
+       timestamp: 1590750524215,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050990414862', text: '얼유 이디엇?' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'What are you doing?',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:51.705Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '3bbcbd4762524a3aa6662ef3441bc5ba',
+       source: [Object],
+       timestamp: 1590750531035,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050991017865', text: '야 이기야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Hey, Ikiya',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:55.043Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '06764e048804467ea23f501a9b4fe730',
+       source: [Object],
+       timestamp: 1590750534344,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050991303574', text: '노짱' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Nozzang',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:08:59.599Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'e787ac6154e0436c8d9303990ca63e78',
+       source: [Object],
+       timestamp: 1590750538931,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050991695614', text: 'ㅋㅋㅋㅋ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'LOL',
+     engineType: 'PRETRANS',
+     pivot: null } }
+====================== 2020-05-29T11:09:00.547Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'bd1185c990ec4a8695ebfe8a8a115d65',
+       source: [Object],
+       timestamp: 1590750540426,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050991834473', text: '웃긴년' }
+{}
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Funny bitch',
+     engineType: 'N2MT',
+     pivot: null } }
+====================== 2020-05-29T11:09:02.156Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '2701589d17dc40d4bdbf441bbc2cfbce',
+       source: [Object],
+       timestamp: 1590750541444,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050991919098', text: '시1발년' }
+{}
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Year 1 of the poem',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:03.315Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '19fc4272dabe4c6c85262cf240c446fd',
+       source: [Object],
+       timestamp: 1590750543198,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050992080438', text: '천하의썅년' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'a bitch in the world',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:14.298Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '082be69a07f3480992865771d305413c',
+       source: [Object],
+       timestamp: 1590750553627,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050992982732', text: 'ㅋㅋㅋㅋ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'LOL',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:17.006Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'ff4d7d07a6e84da887d70014e02b1850',
+       source: [Object],
+       timestamp: 1590750556337,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050993225654', text: '너존나웃기네시1발년아' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'You\'re so funny, bitch.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:22.935Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'f2cd44f448964d19994c3f505da0f76c',
+       source: [Object],
+       timestamp: 1590750562244,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050993731592', text: 'ㅋㅋㅋ' }
+====================== 2020-05-29T11:09:23.125Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'ede4c4035c424dd59b7e42c6e73314ee',
+       source: [Object],
+       timestamp: 1590750562886,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050993793832', text: '야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'LOL',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Dude.',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:25.126Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '205730c94474415794158de3db55883c',
+       source: [Object],
+       timestamp: 1590750564458,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050993917657', text: '욕안할겡' }
+====================== 2020-05-29T11:09:25.309Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '75a00051495b4528a8e3875d5a18535a',
+       source: [Object],
+       timestamp: 1590750565174,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050993991767', text: '미안' }
+====================== 2020-05-29T11:09:25.765Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '79832530b1624390b9a8aab5c598738e',
+       source: [Object],
+       timestamp: 1590750565643,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050994036965', text: 'ㅠㅠ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'I won\'t curse',
+     engineType: 'N2MT',
+     pivot: null } }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Sorry',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'ᅲᅲ',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+{}
+====================== 2020-05-29T11:09:28.387Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'dca5deb8dd7e4962a00328fd1ff1289e',
+       source: [Object],
+       timestamp: 1590750567717,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050994202649', text: '기분딱좋노' }
+====================== 2020-05-29T11:09:28.845Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'b9dad286ed094c7ca6fd8e692fb4dbb7',
+       source: [Object],
+       timestamp: 1590750568718,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050994295352', text: '흔드르라' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'I feel good.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Shake it.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:09:38.811Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'f62aebd6063e43b99c4dec5499e1ffbc',
+       source: [Object],
+       timestamp: 1590750578142,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12050995113785', text: '너진짜 똑똑하다' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'You\'re so smart.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:10:39.821Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'a3939d9e24c146a5893b60d45156a339',
+       source: [Object],
+       timestamp: 1590750638891,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12051000420298', text: 'ㅎㅎ' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Haha',
+     engineType: 'PRETRANS',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:47:32.897Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '8e2d8be702ac4942b67433a09a914849',
+       source: [Object],
+       timestamp: 1590752851680,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12051195634189', text: '그녀의 첫번째 영화야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'It\'s her first movie.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T11:47:42.388Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'e912ac2558c043ff95a511e630047737',
+       source: [Object],
+       timestamp: 1590752861693,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12051196513634', text: '알잖아 레이디가가는 가수인거' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'You know, Lady Gaga\'s a singer.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T13:40:49.316Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '433da4c559224d7ab4c5063acd747d1e',
+       source: [Object],
+       timestamp: 1590759648329,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text',
+  id: '12051816128767',
+  text: '원래 레이디가가는 가수인데 첫번째로 영화 찍은거야' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText:
+      'She was originally a singer, but she was the first to film a movie.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T14:01:01.603Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'cdfad19ae7704d09a28383eb23134466',
+       source: [Object],
+       timestamp: 1590760860896,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text',
+  id: '12051924648815',
+  text: '특히 노래하는 장면이 너무 인상깊었어' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Especially the singing scene was so impressive.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T14:01:10.886Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'a7a419eef23542689456a2a2702eb96d',
+       source: [Object],
+       timestamp: 1590760870221,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12051925473873', text: '버스킹' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'busking',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+====================== 2020-05-29T14:01:21.490Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '1f32155b8da34bfe99a69710e7db3478',
+       source: [Object],
+       timestamp: 1590760879616,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12051926300987', text: '버스킹하는 장면이 너무 좋았어' }
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'I loved the busking scene.',
+     engineType: 'N2MT',
+     pivot: null } }
+{}
+[HTTPS] Server is started on port 23023
+====================== 2020-05-29T16:56:19.077Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'c20316ea191e49329a2dc7a95b6e57c6',
+       source: [Object],
+       timestamp: 1590771378084,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052683242617', text: 'ㅎㅇ' }
+en
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'ᄋᄋ',
+     engineType: 'N2MT',
+     pivot: null } }
+en
+{}
+====================== 2020-05-29T16:56:22.256Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'a92b1f41709345d5ae1f1c29cd96fb24',
+       source: [Object],
+       timestamp: 1590771381597,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052683439831', text: '안녕' }
+en
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'en',
+     translatedText: 'Hi.',
+     engineType: 'N2MT',
+     pivot: null } }
+en
+{}
+====================== 2020-05-29T16:56:26.465Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'f7c5bb3a310c4d4babe992d749c3b28b',
+       source: [Object],
+       timestamp: 1590771385797,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052683667558', text: '일본어' }
+ja
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'ja',
+     translatedText: '日本語',
+     engineType: 'N2MT',
+     pivot: null } }
+ja
+{}
+====================== 2020-05-29T16:56:32.008Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '9581517e43ee47f880c12b1ef216c008',
+       source: [Object],
+       timestamp: 1590771391341,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052683972616', text: '나는 이재빈입니다' }
+ja
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'ja',
+     translatedText: '私はイゼビンです。',
+     engineType: 'N2MT',
+     pivot: null } }
+ja
+{}
+====================== 2020-05-29T16:56:35.037Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '10581ca9c85a4ec5bfc167a0d9bf69d0',
+       source: [Object],
+       timestamp: 1590771394343,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052684141158', text: '만나서 반가워요' }
+ja
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'ja',
+     translatedText: 'お会いできて嬉しいです',
+     engineType: 'N2MT',
+     pivot: null } }
+ja
+{}
+====================== 2020-05-29T16:56:39.900Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '26c5e793c2ab4f71a2d70d7e1228a6a1',
+       source: [Object],
+       timestamp: 1590771399233,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052684402760', text: '이것은 제가 만든 챗봇입니다' }
+ja
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'ja',
+     translatedText: 'これは私が作ったチャットボットです。',
+     engineType: 'N2MT',
+     pivot: null } }
+ja
+{}
+====================== 2020-05-29T16:56:44.547Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'dcc1e661d57b43779f37d24f94bfe299',
+       source: [Object],
+       timestamp: 1590771403877,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052684654746', text: 'ㅋㅋ 저는 일본어를 잘 못해요' }
+ja
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'ja',
+     translatedText: '私は日本語が下手です。',
+     engineType: 'N2MT',
+     pivot: null } }
+ja
+{}
+====================== 2020-05-29T16:56:49.505Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '6690d56a49894804ad781de3e2e99d34',
+       source: [Object],
+       timestamp: 1590771408838,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052684924984', text: '프랑스어' }
+fr
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'fr',
+     translatedText: 'Français',
+     engineType: 'N2MT',
+     pivot: null } }
+fr
+{}
+====================== 2020-05-29T16:56:57.259Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: '90b0f1ec13bf4fb0bde2e20f096822ee',
+       source: [Object],
+       timestamp: 1590771416582,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text',
+  id: '12052685352007',
+  text: '반가워 에펠탑 가려면 어디로 가야돼?' }
+fr
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'fr',
+     translatedText: 'Où dois-je aller pour aller à la Tour Eiffel ?',
+     engineType: 'N2MT',
+     pivot: null } }
+fr
+{}
+====================== 2020-05-29T16:57:02.483Z ======================
+[request] { events:
+   [ { type: 'message',
+       replyToken: 'b5827c4293064d3eb540ed53115b32f7',
+       source: [Object],
+       timestamp: 1590771421774,
+       mode: 'active',
+       message: [Object] } ],
+  destination: 'U29d1b932dc893c348c7ac01e5ba7e5b8' }
+[request source]  { userId: 'U295d68002d3f6046f97f390278e9b66f', type: 'user' }
+[request message] { type: 'text', id: '12052685629772', text: '나시옹역이 어디야?' }
+fr
+{ '@type': 'response',
+  '@service': 'naverservice.nmt.proxy',
+  '@version': '1.0.0',
+  result:
+   { srcLangType: 'ko',
+     tarLangType: 'fr',
+     translatedText: 'Où est la gare de Nashion ?',
+     engineType: 'N2MT',
+     pivot: null } }
+fr
+{}
