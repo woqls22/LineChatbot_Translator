@@ -2,10 +2,10 @@
 ## 주제
 파파고 API, LINE Message API이용 자동 번역 챗봇. [프랑스어,일본어,영어 지원]
 
-##구현환경
+## 구현환경
 Naver Papago Api, Line Message Api, Express, npm
 
-##사용방법
+## 사용방법
 
 ![1](./1.jpg)
 
